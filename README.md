@@ -1,1 +1,1 @@
-# .github
+# Profile for LinDB organization. 
